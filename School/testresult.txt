@@ -1,0 +1,2 @@
+Student{examsPassed=[Exam{exam='Chemistry', grade=5.0}, Exam{exam='Biology', grade=4.4}]}
+Student{examsPassed=[Exam{exam='Biology', grade=3.0}, Exam{exam='Chemistry', grade=5.0}]}
